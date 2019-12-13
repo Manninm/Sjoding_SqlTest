@@ -6,6 +6,7 @@ tar xf Database.tar.gz
 cd Database/
 mysql < 1-define.sql
 mysql < 2-indexs.sql
+cd ../
 ```
 Open the Sjoding_SqlTest Jupyter notebook
 ```bash
