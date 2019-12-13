@@ -9,5 +9,7 @@ mysql < 2-indexs.sql
 ```
 Open the Sjoding_SqlTest Jupyter notebook
 ```bash
-jupyter notebook Sjoding_SqlTest.ipynb --browser=firefox --ip=127.0.0.1 #my remote server requires the ip and browser be designated, yours may not
+jupyter notebook Sjoding_SqlTest.ipynb --browser=firefox --ip=127.0.0.1 
+#my remote server requires the ip and browser be designated, yours may not
 ``` 
+Run the notebook by pressing the play button
